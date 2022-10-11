@@ -15,7 +15,6 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@todo-starter/api-interfaces": ["libs/api-interfaces/src/index.ts"],
       "@todo-starter/prisma-client": ["libs/prisma-client/src"]
     }
   },
